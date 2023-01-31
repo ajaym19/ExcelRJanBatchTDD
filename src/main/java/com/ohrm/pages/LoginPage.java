@@ -34,6 +34,10 @@ public class LoginPage extends OHRMBase{
 	public boolean getCompanyLink() {
 		return driver.findElement(By.linkText("OrangeHRM, Inc")).isDisplayed();
 	}
+	
+	public void m1() {
+		
+	}
 
 	
 }

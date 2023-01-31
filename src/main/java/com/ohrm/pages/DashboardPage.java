@@ -9,4 +9,8 @@ public class DashboardPage extends OHRMBase{
 	public boolean myActionPresent() {
 		return driver.findElement(By.xpath("//p[text()='My Actions']")).isDisplayed();
 	}
+	
+	public void m2() {
+		
+	}
 }
