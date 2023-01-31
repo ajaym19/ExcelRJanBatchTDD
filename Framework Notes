@@ -1,0 +1,45 @@
+Framework Notes
+
+What is a Framework?
+1. TDD: Test Driven Development
+2. BDD: Behavior Driven Development
+
+Folder Structure:
+src/main/java: will contain main code related to JAVA and reusable functions
+src/main/resources: will contain configuration files related to code
+src/test/java: will contain the test cases
+src/test/resources: will contain test data files
+
+Design Pattern:
+POM: Page Object Model
+SingleTon
+
+
+Integrations:
+Java
+Selenium
+TestNG
+ApachePOI
+Git
+Maven
+Jenkins
+Properties File
+
+Package Name
+reverse of the domain name
+
+Information:
+testcase:
+	knows what to test
+	knows the expected output
+	knows what data or input to be used
+	does not knows how to test
+	does not knows the actual output
+	knows how to compare and mark the cases as pass or fail
+code:
+	knows how to test
+	knows the actual output
+
+
+
+

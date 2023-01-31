@@ -1,0 +1,4 @@
+com\ohrm\pages\LoginPage.class
+com\ohrm\pages\AdminPage.class
+com\ohrm\pages\DashboardPage.class
+com\ohrm\base\OHRMBase.class
